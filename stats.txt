@@ -1,0 +1,21 @@
+In lpd_cleansed
+total tracks: 21203
+
+positive: track is melody track
+negative: track is not melody track
+
+true positive: 0.05810498514361175
+true negative: 0.8867141442248738
+false positive: 0.00905532236004339
+false negative: 0.04612554827147102
+
+total predicted positive: 0.06716030750365515
+total predicted negative: 0.9328396924963449
+total actual positive: 0.10423053341508277
+total actual negative: 0.8957694665849172
+
+total true:0.9448191293684856
+total false:0.05518087063151441
+
+false positive rate: 0.01010898752171853
+false negative rate: 0.44253393665158375
